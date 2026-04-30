@@ -170,7 +170,7 @@ export default function Home() {
       <footer id="register" className="border-t border-white/10 px-6 py-12">
         <div className="mx-auto flex max-w-6xl flex-col gap-6 md:flex-row md:items-center md:justify-between">
           <div>
-            <p className="text-2xl font-black">TEDxYourSchool</p>
+            <p className="text-2xl font-black">TEDxMIS Tampines Youth</p>
             <p className="mt-2 max-w-2xl text-sm leading-6 text-zinc-500">
               This independent TEDx event is operated under license from TED.
             </p>
